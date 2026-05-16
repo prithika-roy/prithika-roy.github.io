@@ -23,10 +23,10 @@ repository               : "prithika-roy/prithika-roy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "grad_headshot.jpg"
+  avatar           : "grad_headshot.png"
   name             : "Prithika Roy"
   pronouns         : "she/her"
-  bio              : "PhD Student in Statistics at University of California, Berkeley"
+  bio              : "Statistics PhD Student at University of California, Berkeley"
   location         : "Chapel Hill, NC"
   employer         : # "Red Brick University"
   uri              : # URL
