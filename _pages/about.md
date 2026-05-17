@@ -11,7 +11,7 @@ I am an incoming Ph.D. student in Statistics at UC Berkeley starting in Fall 202
 
 Previously, I graduated in 2026 from the University of North Carolina at Chapel Hill (Go Heels!) with a double major in Statistics and Computer Science along with a minor in Business Administration. At UNC, I was fortunate to work with [Drs. Chudi Zhong](https://chudizhong.github.io/) and [Serhan Ziya](https://ziya.web.unc.edu/). In summer 2025, I interned at Oliver Wyman, where I worked on developing a probability of default model for an equity derivatives clearinghouse. In my free time, you can find me singing, doing pottery, playing the flute, or taking long walks outside.
 
-I am passionate about supporting junior students and underrepresented groups in STEM, particularly women in statistics/math/computer science. If I can be of any help to you, please feel free to reach out at prithika_roy@berkeley.edu to schedule time to chat about grad school applications, careers, research, etc.
+I am passionate about supporting junior students and underrepresented groups in STEM, particularly women in statistics/math/computer science. If I can be of any help to you, please feel free to reach out via email to schedule time to chat about grad school applications, careers, research, etc.
 
 
 Recent News
