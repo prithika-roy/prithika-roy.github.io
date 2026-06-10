@@ -17,6 +17,7 @@ I am passionate about supporting junior students and underrepresented groups in 
 Recent News
 ======
 
+- **June 2026** I was awarded the Chancellor's Fellowship for Graduate Study by UC Berkeley.
 - **May 2026** I was one of 3 graduating seniors who received the "Statistics and Analytics Award" at UNC Department of Statistics & Operations Research's commencement ceremony.
 - **April 2026** I defended my undergraduate honors thesis titled "Patient Length-of-Stay Prediction and Inpatient Bed Forecasting in UNC Hospitals’ Emergency Department" and was awarded highest honors.
 - **February 2026** I was accepted into UC Berkeley's Statistics PhD program!
