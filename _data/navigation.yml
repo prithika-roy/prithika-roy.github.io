@@ -24,7 +24,7 @@ main:
     url: /files/cv.pdf
   
   - title: "Blog"
-    url: /blog/
+    url: https://prroy.substack.com/p/some-pre-phd-thoughts?r=8sufn9
     
   # - title: "CV"
   #   url: /cv-json/
